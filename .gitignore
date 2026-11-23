@@ -1,0 +1,8 @@
+.venv/
+.python-path
+runs/
+__pycache__/
+*.pyc
+*.sock
+*.partial
+.env
